@@ -12,6 +12,40 @@
 		83F7354C1F7B519D00E794B0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 83F7354A1F7B519D00E794B0 /* Main.storyboard */; };
 		83F7354E1F7B519D00E794B0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 83F7354D1F7B519D00E794B0 /* Assets.xcassets */; };
 		83F735511F7B519D00E794B0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 83F7354F1F7B519D00E794B0 /* LaunchScreen.storyboard */; };
+		83F7356D1F7B51DC00E794B0 /* animated-snow-image-0020.gif in Resources */ = {isa = PBXBuildFile; fileRef = 83F7355A1F7B51D900E794B0 /* animated-snow-image-0020.gif */; };
+		83F7356E1F7B51DC00E794B0 /* 1460642784_Snowman.png in Resources */ = {isa = PBXBuildFile; fileRef = 83F7355B1F7B51D900E794B0 /* 1460642784_Snowman.png */; };
+		83F7356F1F7B51DC00E794B0 /* snowflake.png in Resources */ = {isa = PBXBuildFile; fileRef = 83F7355C1F7B51D900E794B0 /* snowflake.png */; };
+		83F735701F7B51DC00E794B0 /* 1460542075_christmas_15.png in Resources */ = {isa = PBXBuildFile; fileRef = 83F7355D1F7B51D900E794B0 /* 1460542075_christmas_15.png */; };
+		83F735711F7B51DC00E794B0 /* 1460542104_christmas_1.png in Resources */ = {isa = PBXBuildFile; fileRef = 83F7355E1F7B51D900E794B0 /* 1460542104_christmas_1.png */; };
+		83F735721F7B51DC00E794B0 /* 1460541865_xmas-04.png in Resources */ = {isa = PBXBuildFile; fileRef = 83F7355F1F7B51DA00E794B0 /* 1460541865_xmas-04.png */; };
+		83F735731F7B51DC00E794B0 /* 1460542079_christmas_12.png in Resources */ = {isa = PBXBuildFile; fileRef = 83F735601F7B51DA00E794B0 /* 1460542079_christmas_12.png */; };
+		83F735741F7B51DC00E794B0 /* 1460541938_christmas_10.png in Resources */ = {isa = PBXBuildFile; fileRef = 83F735611F7B51DA00E794B0 /* 1460541938_christmas_10.png */; };
+		83F735751F7B51DC00E794B0 /* 1460541953_christmas_11.png in Resources */ = {isa = PBXBuildFile; fileRef = 83F735621F7B51DA00E794B0 /* 1460541953_christmas_11.png */; };
+		83F735761F7B51DC00E794B0 /* 1460542083_christmas_2.png in Resources */ = {isa = PBXBuildFile; fileRef = 83F735631F7B51DA00E794B0 /* 1460542083_christmas_2.png */; };
+		83F735771F7B51DC00E794B0 /* 0617034009.png in Resources */ = {isa = PBXBuildFile; fileRef = 83F735641F7B51DA00E794B0 /* 0617034009.png */; };
+		83F735781F7B51DC00E794B0 /* bgMain.png in Resources */ = {isa = PBXBuildFile; fileRef = 83F735651F7B51DB00E794B0 /* bgMain.png */; };
+		83F735791F7B51DC00E794B0 /* snowman.png in Resources */ = {isa = PBXBuildFile; fileRef = 83F735661F7B51DB00E794B0 /* snowman.png */; };
+		83F7357A1F7B51DC00E794B0 /* 1460541878_christmas_6.png in Resources */ = {isa = PBXBuildFile; fileRef = 83F735671F7B51DB00E794B0 /* 1460541878_christmas_6.png */; };
+		83F7357B1F7B51DC00E794B0 /* 1460542107_christmas_18.png in Resources */ = {isa = PBXBuildFile; fileRef = 83F735681F7B51DB00E794B0 /* 1460542107_christmas_18.png */; };
+		83F7357C1F7B51DC00E794B0 /* 1460642774_Bell.png in Resources */ = {isa = PBXBuildFile; fileRef = 83F735691F7B51DB00E794B0 /* 1460642774_Bell.png */; };
+		83F7357D1F7B51DC00E794B0 /* BG.png in Resources */ = {isa = PBXBuildFile; fileRef = 83F7356A1F7B51DB00E794B0 /* BG.png */; };
+		83F7357E1F7B51DC00E794B0 /* 1460541918_christmas_3.png in Resources */ = {isa = PBXBuildFile; fileRef = 83F7356B1F7B51DC00E794B0 /* 1460541918_christmas_3.png */; };
+		83F7357F1F7B51DC00E794B0 /* 1460541940_christmas_8.png in Resources */ = {isa = PBXBuildFile; fileRef = 83F7356C1F7B51DC00E794B0 /* 1460541940_christmas_8.png */; };
+		83F735821F7B709200E794B0 /* Jingle Bells - Christmas Carol.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 83F735811F7B709200E794B0 /* Jingle Bells - Christmas Carol.mp3 */; };
+		83F735841F7D623500E794B0 /* Item.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83F735831F7D623500E794B0 /* Item.swift */; };
+		83F795A31F7D7E0000D24D8E /* item10.png in Resources */ = {isa = PBXBuildFile; fileRef = 83F795961F7D7DFD00D24D8E /* item10.png */; };
+		83F795A41F7D7E0000D24D8E /* item7.png in Resources */ = {isa = PBXBuildFile; fileRef = 83F795971F7D7DFE00D24D8E /* item7.png */; };
+		83F795A51F7D7E0000D24D8E /* item8.png in Resources */ = {isa = PBXBuildFile; fileRef = 83F795981F7D7DFE00D24D8E /* item8.png */; };
+		83F795A61F7D7E0000D24D8E /* item12.png in Resources */ = {isa = PBXBuildFile; fileRef = 83F795991F7D7DFE00D24D8E /* item12.png */; };
+		83F795A71F7D7E0000D24D8E /* item13.png in Resources */ = {isa = PBXBuildFile; fileRef = 83F7959A1F7D7DFE00D24D8E /* item13.png */; };
+		83F795A81F7D7E0000D24D8E /* item6.png in Resources */ = {isa = PBXBuildFile; fileRef = 83F7959B1F7D7DFE00D24D8E /* item6.png */; };
+		83F795A91F7D7E0000D24D8E /* item9.png in Resources */ = {isa = PBXBuildFile; fileRef = 83F7959C1F7D7DFE00D24D8E /* item9.png */; };
+		83F795AA1F7D7E0000D24D8E /* item3.png in Resources */ = {isa = PBXBuildFile; fileRef = 83F7959D1F7D7DFF00D24D8E /* item3.png */; };
+		83F795AB1F7D7E0000D24D8E /* item4.png in Resources */ = {isa = PBXBuildFile; fileRef = 83F7959E1F7D7DFF00D24D8E /* item4.png */; };
+		83F795AC1F7D7E0000D24D8E /* item2.png in Resources */ = {isa = PBXBuildFile; fileRef = 83F7959F1F7D7DFF00D24D8E /* item2.png */; };
+		83F795AD1F7D7E0000D24D8E /* item1.png in Resources */ = {isa = PBXBuildFile; fileRef = 83F795A01F7D7DFF00D24D8E /* item1.png */; };
+		83F795AE1F7D7E0000D24D8E /* item5.png in Resources */ = {isa = PBXBuildFile; fileRef = 83F795A11F7D7E0000D24D8E /* item5.png */; };
+		83F795AF1F7D7E0000D24D8E /* item11.png in Resources */ = {isa = PBXBuildFile; fileRef = 83F795A21F7D7E0000D24D8E /* item11.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +56,40 @@
 		83F7354D1F7B519D00E794B0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		83F735501F7B519D00E794B0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		83F735521F7B519D00E794B0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		83F7355A1F7B51D900E794B0 /* animated-snow-image-0020.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "animated-snow-image-0020.gif"; sourceTree = "<group>"; };
+		83F7355B1F7B51D900E794B0 /* 1460642784_Snowman.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1460642784_Snowman.png; sourceTree = "<group>"; };
+		83F7355C1F7B51D900E794B0 /* snowflake.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = snowflake.png; sourceTree = "<group>"; };
+		83F7355D1F7B51D900E794B0 /* 1460542075_christmas_15.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1460542075_christmas_15.png; sourceTree = "<group>"; };
+		83F7355E1F7B51D900E794B0 /* 1460542104_christmas_1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1460542104_christmas_1.png; sourceTree = "<group>"; };
+		83F7355F1F7B51DA00E794B0 /* 1460541865_xmas-04.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "1460541865_xmas-04.png"; sourceTree = "<group>"; };
+		83F735601F7B51DA00E794B0 /* 1460542079_christmas_12.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1460542079_christmas_12.png; sourceTree = "<group>"; };
+		83F735611F7B51DA00E794B0 /* 1460541938_christmas_10.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1460541938_christmas_10.png; sourceTree = "<group>"; };
+		83F735621F7B51DA00E794B0 /* 1460541953_christmas_11.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1460541953_christmas_11.png; sourceTree = "<group>"; };
+		83F735631F7B51DA00E794B0 /* 1460542083_christmas_2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1460542083_christmas_2.png; sourceTree = "<group>"; };
+		83F735641F7B51DA00E794B0 /* 0617034009.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 0617034009.png; sourceTree = "<group>"; };
+		83F735651F7B51DB00E794B0 /* bgMain.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bgMain.png; sourceTree = "<group>"; };
+		83F735661F7B51DB00E794B0 /* snowman.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = snowman.png; sourceTree = "<group>"; };
+		83F735671F7B51DB00E794B0 /* 1460541878_christmas_6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1460541878_christmas_6.png; sourceTree = "<group>"; };
+		83F735681F7B51DB00E794B0 /* 1460542107_christmas_18.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1460542107_christmas_18.png; sourceTree = "<group>"; };
+		83F735691F7B51DB00E794B0 /* 1460642774_Bell.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1460642774_Bell.png; sourceTree = "<group>"; };
+		83F7356A1F7B51DB00E794B0 /* BG.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BG.png; sourceTree = "<group>"; };
+		83F7356B1F7B51DC00E794B0 /* 1460541918_christmas_3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1460541918_christmas_3.png; sourceTree = "<group>"; };
+		83F7356C1F7B51DC00E794B0 /* 1460541940_christmas_8.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1460541940_christmas_8.png; sourceTree = "<group>"; };
+		83F735811F7B709200E794B0 /* Jingle Bells - Christmas Carol.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Jingle Bells - Christmas Carol.mp3"; sourceTree = "<group>"; };
+		83F735831F7D623500E794B0 /* Item.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Item.swift; sourceTree = "<group>"; };
+		83F795961F7D7DFD00D24D8E /* item10.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = item10.png; sourceTree = "<group>"; };
+		83F795971F7D7DFE00D24D8E /* item7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = item7.png; sourceTree = "<group>"; };
+		83F795981F7D7DFE00D24D8E /* item8.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = item8.png; sourceTree = "<group>"; };
+		83F795991F7D7DFE00D24D8E /* item12.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = item12.png; sourceTree = "<group>"; };
+		83F7959A1F7D7DFE00D24D8E /* item13.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = item13.png; sourceTree = "<group>"; };
+		83F7959B1F7D7DFE00D24D8E /* item6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = item6.png; sourceTree = "<group>"; };
+		83F7959C1F7D7DFE00D24D8E /* item9.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = item9.png; sourceTree = "<group>"; };
+		83F7959D1F7D7DFF00D24D8E /* item3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = item3.png; sourceTree = "<group>"; };
+		83F7959E1F7D7DFF00D24D8E /* item4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = item4.png; sourceTree = "<group>"; };
+		83F7959F1F7D7DFF00D24D8E /* item2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = item2.png; sourceTree = "<group>"; };
+		83F795A01F7D7DFF00D24D8E /* item1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = item1.png; sourceTree = "<group>"; };
+		83F795A11F7D7E0000D24D8E /* item5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = item5.png; sourceTree = "<group>"; };
+		83F795A21F7D7E0000D24D8E /* item11.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = item11.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,14 +122,72 @@
 		83F735451F7B519D00E794B0 /* SampleGesture */ = {
 			isa = PBXGroup;
 			children = (
+				83F735581F7B51A500E794B0 /* Resources */,
 				83F735461F7B519D00E794B0 /* AppDelegate.swift */,
 				83F735481F7B519D00E794B0 /* ViewController.swift */,
+				83F735831F7D623500E794B0 /* Item.swift */,
 				83F7354A1F7B519D00E794B0 /* Main.storyboard */,
 				83F7354D1F7B519D00E794B0 /* Assets.xcassets */,
 				83F7354F1F7B519D00E794B0 /* LaunchScreen.storyboard */,
 				83F735521F7B519D00E794B0 /* Info.plist */,
 			);
 			path = SampleGesture;
+			sourceTree = "<group>";
+		};
+		83F735581F7B51A500E794B0 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				83F735801F7B707F00E794B0 /* Mp3 */,
+				83F735591F7B51AE00E794B0 /* Images */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		83F735591F7B51AE00E794B0 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				83F795A01F7D7DFF00D24D8E /* item1.png */,
+				83F7959F1F7D7DFF00D24D8E /* item2.png */,
+				83F7959D1F7D7DFF00D24D8E /* item3.png */,
+				83F7959E1F7D7DFF00D24D8E /* item4.png */,
+				83F795A11F7D7E0000D24D8E /* item5.png */,
+				83F7959B1F7D7DFE00D24D8E /* item6.png */,
+				83F795971F7D7DFE00D24D8E /* item7.png */,
+				83F795981F7D7DFE00D24D8E /* item8.png */,
+				83F7959C1F7D7DFE00D24D8E /* item9.png */,
+				83F795961F7D7DFD00D24D8E /* item10.png */,
+				83F795A21F7D7E0000D24D8E /* item11.png */,
+				83F795991F7D7DFE00D24D8E /* item12.png */,
+				83F7959A1F7D7DFE00D24D8E /* item13.png */,
+				83F735641F7B51DA00E794B0 /* 0617034009.png */,
+				83F7355F1F7B51DA00E794B0 /* 1460541865_xmas-04.png */,
+				83F735671F7B51DB00E794B0 /* 1460541878_christmas_6.png */,
+				83F7356B1F7B51DC00E794B0 /* 1460541918_christmas_3.png */,
+				83F735611F7B51DA00E794B0 /* 1460541938_christmas_10.png */,
+				83F7356C1F7B51DC00E794B0 /* 1460541940_christmas_8.png */,
+				83F735621F7B51DA00E794B0 /* 1460541953_christmas_11.png */,
+				83F7355D1F7B51D900E794B0 /* 1460542075_christmas_15.png */,
+				83F735601F7B51DA00E794B0 /* 1460542079_christmas_12.png */,
+				83F735631F7B51DA00E794B0 /* 1460542083_christmas_2.png */,
+				83F7355E1F7B51D900E794B0 /* 1460542104_christmas_1.png */,
+				83F735681F7B51DB00E794B0 /* 1460542107_christmas_18.png */,
+				83F735691F7B51DB00E794B0 /* 1460642774_Bell.png */,
+				83F7355B1F7B51D900E794B0 /* 1460642784_Snowman.png */,
+				83F7355A1F7B51D900E794B0 /* animated-snow-image-0020.gif */,
+				83F7356A1F7B51DB00E794B0 /* BG.png */,
+				83F735651F7B51DB00E794B0 /* bgMain.png */,
+				83F7355C1F7B51D900E794B0 /* snowflake.png */,
+				83F735661F7B51DB00E794B0 /* snowman.png */,
+			);
+			path = Images;
+			sourceTree = "<group>";
+		};
+		83F735801F7B707F00E794B0 /* Mp3 */ = {
+			isa = PBXGroup;
+			children = (
+				83F735811F7B709200E794B0 /* Jingle Bells - Christmas Carol.mp3 */,
+			);
+			path = Mp3;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -123,9 +249,42 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				83F735721F7B51DC00E794B0 /* 1460541865_xmas-04.png in Resources */,
+				83F795A81F7D7E0000D24D8E /* item6.png in Resources */,
+				83F795AF1F7D7E0000D24D8E /* item11.png in Resources */,
+				83F795A91F7D7E0000D24D8E /* item9.png in Resources */,
+				83F795A41F7D7E0000D24D8E /* item7.png in Resources */,
+				83F7357E1F7B51DC00E794B0 /* 1460541918_christmas_3.png in Resources */,
+				83F735791F7B51DC00E794B0 /* snowman.png in Resources */,
+				83F735731F7B51DC00E794B0 /* 1460542079_christmas_12.png in Resources */,
+				83F7357C1F7B51DC00E794B0 /* 1460642774_Bell.png in Resources */,
+				83F7357A1F7B51DC00E794B0 /* 1460541878_christmas_6.png in Resources */,
+				83F735751F7B51DC00E794B0 /* 1460541953_christmas_11.png in Resources */,
+				83F795A71F7D7E0000D24D8E /* item13.png in Resources */,
+				83F7357F1F7B51DC00E794B0 /* 1460541940_christmas_8.png in Resources */,
 				83F735511F7B519D00E794B0 /* LaunchScreen.storyboard in Resources */,
+				83F735701F7B51DC00E794B0 /* 1460542075_christmas_15.png in Resources */,
+				83F735821F7B709200E794B0 /* Jingle Bells - Christmas Carol.mp3 in Resources */,
 				83F7354E1F7B519D00E794B0 /* Assets.xcassets in Resources */,
+				83F735741F7B51DC00E794B0 /* 1460541938_christmas_10.png in Resources */,
+				83F7357D1F7B51DC00E794B0 /* BG.png in Resources */,
+				83F795AD1F7D7E0000D24D8E /* item1.png in Resources */,
+				83F735771F7B51DC00E794B0 /* 0617034009.png in Resources */,
+				83F795AE1F7D7E0000D24D8E /* item5.png in Resources */,
+				83F795A61F7D7E0000D24D8E /* item12.png in Resources */,
+				83F735781F7B51DC00E794B0 /* bgMain.png in Resources */,
+				83F735761F7B51DC00E794B0 /* 1460542083_christmas_2.png in Resources */,
+				83F7356F1F7B51DC00E794B0 /* snowflake.png in Resources */,
+				83F7356D1F7B51DC00E794B0 /* animated-snow-image-0020.gif in Resources */,
+				83F735711F7B51DC00E794B0 /* 1460542104_christmas_1.png in Resources */,
+				83F795A51F7D7E0000D24D8E /* item8.png in Resources */,
 				83F7354C1F7B519D00E794B0 /* Main.storyboard in Resources */,
+				83F795A31F7D7E0000D24D8E /* item10.png in Resources */,
+				83F795AA1F7D7E0000D24D8E /* item3.png in Resources */,
+				83F795AC1F7D7E0000D24D8E /* item2.png in Resources */,
+				83F7356E1F7B51DC00E794B0 /* 1460642784_Snowman.png in Resources */,
+				83F7357B1F7B51DC00E794B0 /* 1460542107_christmas_18.png in Resources */,
+				83F795AB1F7D7E0000D24D8E /* item4.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -137,6 +296,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				83F735491F7B519D00E794B0 /* ViewController.swift in Sources */,
+				83F735841F7D623500E794B0 /* Item.swift in Sources */,
 				83F735471F7B519D00E794B0 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
